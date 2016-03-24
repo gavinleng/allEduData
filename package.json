@@ -1,0 +1,15 @@
+{
+  "name": "allEduData",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csvtojson": "^0.5.2",
+    "express": "~4.13.1",
+    "jsonfile": "~2.2.3",
+    "ospoint": "~0.2.0",
+    "minimist": "~1.2.0"
+  }
+}
